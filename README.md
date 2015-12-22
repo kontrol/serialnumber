@@ -15,4 +15,3 @@ In order to run the application, run the command
 from projects root directory.
 
 You can also void individual serial numbers by using the checkbox.  It will remove the serial number immediately.
-
